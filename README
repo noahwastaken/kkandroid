@@ -1,2 +1,2 @@
-$ repo init -u https://github.com/KingKang/platform_manifest.git -b jb
+$ repo init -u https://github.com/LenssFlare/kkandroid.git -b jb
 $ repo sync
