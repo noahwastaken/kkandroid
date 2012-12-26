@@ -1,2 +1,2 @@
-$ repo init -u https://github.com/LenssFlare/kkandroid.git -b jb
+$ repo init -u https://github.com/talnoah/kkandroid.git -b jb
 $ repo sync
